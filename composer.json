@@ -1,0 +1,15 @@
+{
+    "name": "disjfa/symfony",
+    "autoload": {
+        "psr-4": {
+            "Disjfa\\Bundle\\": "src/Bundle"
+        }
+    },
+    "authors": [
+        {
+            "name": "disjfa",
+            "email": "disjfa@disjfa.nl"
+        }
+    ],
+    "require": {}
+}
